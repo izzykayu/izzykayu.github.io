@@ -1,0 +1,7 @@
+theme: jekyll-theme-minimal
+title: Isabel Metzger's Github
+description: Be on the look out for data visualizations, predictive models, social media analysis, mortality risk prediction, emoji sentiment analysis, and more fun stuff! This is my journey of learning to code, from basics in July 2017 to now writing deep learning code in March 2018. I frequently update my projects and portfolio.
+
+
+plugins:
+  - jemoji
