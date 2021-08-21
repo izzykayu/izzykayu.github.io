@@ -1,6 +1,6 @@
 ### Welcome to izzykayu's github homepage
 
-I started learning Python :snake: in July 2017 and R in September 2017. But I coded a little bit a long, long time ago (I wanted my _myspace_ to look pretty). I used to use matlab, minoring in physics and math and then being the physics tutor in uni. I'm always trying to learn more :sparkles: so any feedback is greatly appreciated! If I can start coding--you definitely can.  Love of data science and tattoos. Creative and Passionate. Pharmacy and Machine Learning. Futurist. You can reach me at [linkedin](https://www.linkedin.com/in/isabelmetzger) where I share my python and R tutorials or [quora](https://www.quora.com/profile/Isabel-Metzger-2) where you can see my answers and tutorials to many data science questions.
+Favorite coding languages Python :snake: and R. Back in the day, I used to use matlab, minoring in physics and math and then being the physics tutor in uni. I'm always trying to learn more :sparkles: so any feedback is greatly appreciated! Love of data science and tattoos. Creative and Passionate. Pharmacy, Medicine, and everything + and Machine Learning. Futurist. You can reach me at [linkedin](https://www.linkedin.com/in/isabelmetzger) where I share my python and R tutorials or [quora](https://www.quora.com/profile/Isabel-Metzger-2) where you can see my answers and tutorials to many data science questions.
 
 twitter:[@diamondcrowbar](https://twitter.com/diamondcrowbar)
 
